@@ -156,8 +156,8 @@
         <translation>Mengindex ulang blok di dalam disk...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Kirim koin ke alamat Title Network</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Kirim koin ke alamat Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -180,8 +180,8 @@
         <translation>&amp;Verifikasi pesan...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -208,12 +208,12 @@
         <translation>Enkripsi private key yang dimiliki dompet Anda</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Tanda tangani sebuah pesan menggunakan alamat Title Network Anda untuk membuktikan bahwa Anda adalah pemilik alamat tersebut</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Tanda tangani sebuah pesan menggunakan alamat Bitcoin Clashic Anda untuk membuktikan bahwa Anda adalah pemilik alamat tersebut</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Verifikasi pesan untuk memastikan bahwa pesan tersebut ditanda tangani oleh suatu alamat Title Network tertentu</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Verifikasi pesan untuk memastikan bahwa pesan tersebut ditanda tangani oleh suatu alamat Bitcoin Clashic tertentu</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -252,8 +252,8 @@
         <translation>&amp;pilihan Command-line</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Title Network</source>
-        <translation><numerusform>%n koneksi aktif ke jaringan Title Network</numerusform></translation>
+        <source>%n active connection(s) to Bitcoin Clashic</source>
+        <translation><numerusform>%n koneksi aktif ke jaringan Bitcoin Clashic</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -650,16 +650,16 @@
         <translation>&amp;Perubahan saldo untuk transaksi yang belum dikonfirmasi</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Otomatis membuka port client Title Network di router. Hanya berjalan apabila router anda mendukung UPnP dan di-enable.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Otomatis membuka port client Bitcoin Clashic di router. Hanya berjalan apabila router anda mendukung UPnP dan di-enable.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Petakan port dengan &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a SOCKS5 proxy.</source>
-        <translation>Hubungkan ke jaringan Title Network melalui SOCKS5 proxy.</translation>
+        <source>Connect to the Bitcoin Clashic through a SOCKS5 proxy.</source>
+        <translation>Hubungkan ke jaringan Bitcoin Clashic melalui SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -765,8 +765,8 @@
         <translation>Formulir</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informasi terlampir mungkin sudah kedaluwarsa. Dompet Anda secara otomatis mensinkronisasi dengan jaringan Title Network ketika sebuah hubungan terbentuk, namun proses ini belum selesai.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>Informasi terlampir mungkin sudah kedaluwarsa. Dompet Anda secara otomatis mensinkronisasi dengan jaringan Bitcoin Clashic ketika sebuah hubungan terbentuk, namun proses ini belum selesai.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -822,8 +822,8 @@
         <translation>Nilai</translation>
     </message>
     <message>
-        <source>Enter a Title Network address (e.g. %1)</source>
-        <translation>Masukkan alamat Title Network (contoh %1)</translation>
+        <source>Enter a Bitcoin Clashic address (e.g. %1)</source>
+        <translation>Masukkan alamat Bitcoin Clashic (contoh %1)</translation>
     </message>
     <message>
         <source>%1 h</source>
@@ -1301,8 +1301,8 @@
         <translation>Salin tanda tangan terpilih ke sistem klipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Tandai pesan untuk menyetujui kamu pemiliki alamat Title Network ini</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Tandai pesan untuk menyetujui kamu pemiliki alamat Bitcoin Clashic ini</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1402,8 +1402,8 @@
         <translation>Berjalan dibelakang sebagai daemin dan menerima perintah</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>

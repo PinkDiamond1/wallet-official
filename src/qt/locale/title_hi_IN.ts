@@ -81,7 +81,7 @@
         <translation>पहचान शब्द/अक्षर जो वॉलेट एनक्रिपशन के लिए इस्तेमाल किया है उसे बदलिए!</translation>
     </message>
     <message>
-        <source>Title Network</source>
+        <source>Bitcoin Clashic</source>
         <translation>शीर्षक नेटवर्क</translation>
     </message>
     <message>

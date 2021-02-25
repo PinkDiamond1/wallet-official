@@ -144,8 +144,8 @@
         <translation>Reindexando bloques en disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Enviar monedas a una dirección Title Network</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Enviar monedas a una dirección Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -168,8 +168,8 @@
         <translation>&amp;Verificar mensaje...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -196,12 +196,12 @@
         <translation>Cifrar las claves privadas de su monedero</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones Title Network para demostrar la propiedad</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones Bitcoin Clashic para demostrar la propiedad</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Verificar mensajes comprobando que están firmados con direcciones Title Network concretas</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Verificar mensajes comprobando que están firmados con direcciones Bitcoin Clashic concretas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -496,8 +496,8 @@
         <translation>Experto</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente Title Network en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente Bitcoin Clashic en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -591,8 +591,8 @@
         <translation>Desde</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Title Network después de que se haya establecido una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Bitcoin Clashic después de que se haya establecido una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -1021,8 +1021,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Firmar el mensaje para demostrar que se posee esta dirección Title Network</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Firmar el mensaje para demostrar que se posee esta dirección Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1041,8 +1041,8 @@
         <translation>&amp;Verificar mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
-        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección Title Network indicada</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
+        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección Bitcoin Clashic indicada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1125,8 +1125,8 @@
 </translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Núcleo de Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Núcleo de Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

@@ -858,7 +858,7 @@ std::string HelpMessage(HelpMessageMode mode) {
 
 std::string LicenseInfo() {
     const std::string URL_SOURCE_CODE =
-        "<https://github.com/title-network/title-network>";
+        "<https://github.com/Bitcoin-Clashic/wallet-official>";
     const std::string URL_WEBSITE = "<https://title.network>";
 
     return CopyrightHolders(
@@ -1038,7 +1038,7 @@ void ThreadImport(const Config &config,
 }
 
 /** Sanity checks
- *  Ensure that Title Network is running in a usable environment with all
+ *  Ensure that Bitcoin Clashic is running in a usable environment with all
  *  necessary library support.
  */
 bool InitSanityCheck(void) {
@@ -1520,7 +1520,7 @@ bool AppInitParameterInteraction(Config &config) {
     if (GetBoolArg("-peerbloomfilters", DEFAULT_PEERBLOOMFILTERS))
         nLocalServices = ServiceFlags(nLocalServices | NODE_BLOOM);
 
-    // Signal Title Network support.
+    // Signal Bitcoin Clashic support.
     // TODO: remove some time after the hardfork when no longer needed
     // to differentiate the network nodes.
     nLocalServices = ServiceFlags(nLocalServices | NODE_TITLE);

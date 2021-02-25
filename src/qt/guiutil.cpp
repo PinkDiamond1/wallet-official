@@ -142,7 +142,7 @@ void setupAddressWidget(QValidatedLineEdit *widget, QWidget *parent) {
     // We don't want translators to use own addresses in translations
     // and this is the only place, where this address is supplied.
     widget->setPlaceholderText(
-        QObject::tr("Enter a Title Network address (e.g. %1)")
+        QObject::tr("Enter a Bitcoin Clashic address (e.g. %1)")
             .arg(QString::fromStdString(DummyAddress(Params()))));
 #endif
     widget->setValidator(new BitcoinAddressEntryValidator(parent));
@@ -752,7 +752,7 @@ LSSharedFileListItemRef findStartupItemInList(LSSharedFileListRef list,
 LSSharedFileListItemRef findStartupItemInList(LSSharedFileListRef list,
                                               CFURLRef findUrl) {
     LSSharedFileListItemRef foundItem = nullptr;
-    // loop through the list of startup items and try to find the Title Network app
+    // loop through the list of startup items and try to find the Bitcoin Clashic app
     CFArrayRef listSnapshot = LSSharedFileListCopySnapshot(list, nullptr);
     for (int i = 0; !foundItem && i < CFArrayGetCount(listSnapshot); ++i) {
         LSSharedFileListItemRef item =

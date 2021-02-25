@@ -112,16 +112,16 @@
         <translation>Recibiendo direcciones</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Enviar monedas a una dirección Title Network</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Enviar monedas a una dirección Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
         <translation>Cambie la clave utilizada para el cifrado del monedero</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>

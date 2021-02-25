@@ -57,7 +57,7 @@
       <item>
        <widget class="QValidatedLineEdit" name="payTo">
         <property name="toolTip">
-         <string>The Title Network address to send the payment to</string>
+         <string>Bitcoin Clashic address to send the payment to</string>
         </property>
        </widget>
       </item>

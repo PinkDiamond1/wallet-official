@@ -168,8 +168,8 @@
         <translation>Đánh chỉ số (indexing) lại các khối (blocks) trên ổ đĩa ...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Gửi coins đến tài khoản Title Network</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Gửi coins đến tài khoản Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -188,8 +188,8 @@
         <translation>&amp;Tin nhắn xác thực</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -216,12 +216,12 @@
         <translation>Mã hoá các khoá bí mật trong Ví của bạn.</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Dùng địa chỉ Title Network của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Dùng địa chỉ Bitcoin Clashic của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Title Network xác định.</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Bitcoin Clashic xác định.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -518,8 +518,8 @@
         <translation>Ví</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a SOCKS5 proxy.</source>
-        <translation>Kết nối đến máy chủ Title Network thông qua SOCKS5 proxy.</translation>
+        <source>Connect to the Bitcoin Clashic through a SOCKS5 proxy.</source>
+        <translation>Kết nối đến máy chủ Bitcoin Clashic thông qua SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1000,8 +1000,8 @@
         <translation>Lựa chọn:</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>(default: %u)</source>

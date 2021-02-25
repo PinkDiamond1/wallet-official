@@ -34,8 +34,8 @@ packages:
 - "libc6-dev:i386"
 - "libstdc++6:i386"
 remotes:
-- "url": "https://github.com/title-network/title-network.git"
-  "dir": "title-network"
+- "url": "https://github.com/Bitcoin-Clashic/wallet-official.git"
+  "dir": "wallet-official"
 files: []
 script: |
 
@@ -119,7 +119,7 @@ script: |
   chmod +x ${WRAP_DIR}/${prog}
   done
 
-  cd title-network
+  cd wallet-official
   BASEPREFIX=`pwd`/depends
   # Build dependencies for each host
   for i in $HOSTS; do

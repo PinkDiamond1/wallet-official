@@ -1,7 +1,7 @@
 title-seeder
 ==============
 
-Title-seeder is a crawler for the Title Network, which
+Title-seeder is a crawler for the Bitcoin Clashic, which
 exposes a list of reliable nodes via a built-in DNS server.
 
 Features:

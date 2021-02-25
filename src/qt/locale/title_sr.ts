@@ -132,8 +132,8 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Пошаљите новац на Title Network адресу</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Пошаљите новац на Bitcoin Clashic адресу</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>

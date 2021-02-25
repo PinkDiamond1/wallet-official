@@ -433,7 +433,7 @@ void PaymentServer::handleURIOrFile(const QString &s) {
                 Q_EMIT message(
                     tr("URI handling"),
                     tr("URI cannot be parsed! This can be caused by an invalid "
-                       "Title Network address or malformed URI parameters."),
+                       "Bitcoin Clashic address or malformed URI parameters."),
                     CClientUIInterface::ICON_WARNING);
 
             return;
@@ -548,7 +548,7 @@ bool PaymentServer::processPaymentRequest(const PaymentRequestPlus &request,
             // Append destination address
             addresses.append(QString::fromStdString(EncodeDestination(dest)));
         } else if (!recipient.authenticatedMerchant.isEmpty()) {
-            // Unauthenticated payment requests to custom Title Network addresses are
+            // Unauthenticated payment requests to custom Bitcoin Clashic addresses are
             // not supported
             // (there is no good way to tell the user where they are paying in a
             // way they'd

@@ -24,13 +24,13 @@ In case you want to build the disk image with `make deploy` (.dmg / optional), y
 
 NOTE: Building with Qt4 is still supported, however, could result in a broken UI. Building with Qt5 is recommended.
 
-Build Title Network
+Build Bitcoin Clashic
 --------------------------
 
-1. Clone the Title Network source code and cd into `title-network`
+1. Clone the Bitcoin Clashic source code and cd into `wallet-official`
 
-        git clone github.com/title-network/title-network
-        cd title-network
+        git clone github.com/Bitcoin-Clashic/wallet-official
+        cd wallet-official
 
 2.  Build title-network:
 
@@ -53,7 +53,7 @@ Build Title Network
 Running
 -------
 
-Title Network is now available at `./src/titled`
+Bitcoin Clashic is now available at `./src/titled`
 
 Before running, it's recommended you create an RPC configuration file.
 

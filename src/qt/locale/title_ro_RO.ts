@@ -156,8 +156,8 @@
         <translation>Se reindexează blocurile pe disc...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Trimite monede către o adresă Title Network</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Trimite monede către o adresă Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -180,8 +180,8 @@
         <translation>&amp;Verifică mesaj...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -208,12 +208,12 @@
         <translation>Criptează cheile private ale portofelului dvs.</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Semnaţi mesaje cu adresa dvs. Title Network pentru a dovedi că vă aparţin</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Semnaţi mesaje cu adresa dvs. Bitcoin Clashic pentru a dovedi că vă aparţin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Verificaţi mesaje pentru a vă asigura că au fost semnate cu adresa Title Network specificată</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Verificaţi mesaje pentru a vă asigura că au fost semnate cu adresa Bitcoin Clashic specificată</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -252,8 +252,8 @@
         <translation>Opţiuni linie de &amp;comandă</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Title Network</source>
-        <translation><numerusform>%n conexiune activă către reţeaua Title Network</numerusform><numerusform>%n conexiuni active către reţeaua Title Network</numerusform><numerusform>%n de conexiuni active către reţeaua Title Network</numerusform></translation>
+        <source>%n active connection(s) to Bitcoin Clashic</source>
+        <translation><numerusform>%n conexiune activă către reţeaua Bitcoin Clashic</numerusform><numerusform>%n conexiuni active către reţeaua Bitcoin Clashic</numerusform><numerusform>%n de conexiuni active către reţeaua Bitcoin Clashic</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -658,16 +658,16 @@
         <translation>Cheltuire rest neconfirmat</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat în router portul aferent clientului Title Network. Funcţionează doar dacă routerul duportă UPnP şi e activat.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat în router portul aferent clientului Bitcoin Clashic. Funcţionează doar dacă routerul duportă UPnP şi e activat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapare port folosind &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a SOCKS5 proxy.</source>
-        <translation>Conectare la reţeaua Title Network printr-un proxy SOCKS.</translation>
+        <source>Connect to the Bitcoin Clashic through a SOCKS5 proxy.</source>
+        <translation>Conectare la reţeaua Bitcoin Clashic printr-un proxy SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -767,7 +767,7 @@
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Adresa Title Network pe care aţi specificat-o nu este validă.</translation>
+        <translation>Adresa Bitcoin Clashic pe care aţi specificat-o nu este validă.</translation>
     </message>
 </context>
 <context>
@@ -777,8 +777,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informaţiile afişate pot fi neactualizate. Portofelul dvs. se sincronizează automat cu reţeaua Title Network după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>Informaţiile afişate pot fi neactualizate. Portofelul dvs. se sincronizează automat cu reţeaua Bitcoin Clashic după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -866,8 +866,8 @@
         <translation>Cantitate</translation>
     </message>
     <message>
-        <source>Enter a Title Network address (e.g. %1)</source>
-        <translation>Introduceţi o adresă Title Network (de exemplu %1)</translation>
+        <source>Enter a Bitcoin Clashic address (e.g. %1)</source>
+        <translation>Introduceţi o adresă Bitcoin Clashic (de exemplu %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1166,8 +1166,8 @@
         <translation>R&amp;efoloseşte o adresă de primire (nu este recomandat)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Title Network.</source>
-        <translation>Un mesaj opţional de ataşat la cererea de plată, care va fi afişat cînd cererea este deschisă. Notă: Acest mesaj nu va fi trimis cu plata către reţeaua Title Network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin Clashic.</source>
+        <translation>Un mesaj opţional de ataşat la cererea de plată, care va fi afişat cînd cererea este deschisă. Notă: Acest mesaj nu va fi trimis cu plata către reţeaua Bitcoin Clashic.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1386,8 +1386,8 @@
         <translation>Aceasta este o tranzacţie normală.</translation>
     </message>
     <message>
-        <source>The Title Network address to send the payment to</source>
-        <translation>Adresa Title Network către care se face plata</translation>
+        <source>The Bitcoin Clashic address to send the payment to</source>
+        <translation>Adresa Bitcoin Clashic către care se face plata</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1414,8 +1414,8 @@
         <translation>Introduceţi eticheta pentru ca această adresa să fie introdusă în lista de adrese folosite</translation>
     </message>
     <message>
-        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Title Network.</source>
-        <translation>un mesaj a fost ataşat la %1 URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua Title Network.</translation>
+        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin Clashic.</source>
+        <translation>un mesaj a fost ataşat la %1 URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua Bitcoin Clashic.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1451,7 +1451,7 @@
         <translation>&amp;Semnează mesaj</translation>
     </message>
     <message>
-        <source>The Title Network address to sign the message with</source>
+        <source>The Bitcoin Clashic address to sign the message with</source>
         <translation>Adresa cu care semnaţi mesajul</translation>
     </message>
     <message>
@@ -1483,8 +1483,8 @@
         <translation>Copiază semnatura curentă în clipboard-ul sistemului</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Semnează mesajul pentru a dovedi ca deţineţi acestă adresă Title Network</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Semnează mesajul pentru a dovedi ca deţineţi acestă adresă Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1503,12 +1503,12 @@
         <translation>&amp;Verifică mesaj</translation>
     </message>
     <message>
-        <source>The Title Network address the message was signed with</source>
-        <translation>Introduceţi o adresă Title Network</translation>
+        <source>The Bitcoin Clashic address the message was signed with</source>
+        <translation>Introduceţi o adresă Bitcoin Clashic</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
-        <translation>Verificaţi mesajul pentru a vă asigura că a fost semnat cu adresa Title Network specificată</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
+        <translation>Verificaţi mesajul pentru a vă asigura că a fost semnat cu adresa Bitcoin Clashic specificată</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1596,8 +1596,8 @@
         <translation>Rulează în fundal ca un demon şi acceptă comenzi</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

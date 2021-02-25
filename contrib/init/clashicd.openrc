@@ -18,8 +18,8 @@ TITLED_BIN=${TITLED_BIN:-/usr/bin/titled}
 TITLED_NICE=${TITLED_NICE:-${NICELEVEL:-0}}
 TITLED_OPTS="${TITLED_OPTS:-${BITCOIN_OPTS}}"
 
-name="Title Network Daemon"
-description="Title Network cryptocurrency P2P network daemon"
+name="Bitcoin Clashic Daemon"
+description="Bitcoin Clashic cryptocurrency P2P network daemon"
 
 command="/usr/bin/titled"
 command_args="-pid=\"${TITLED_PIDFILE}\" \
@@ -84,7 +84,7 @@ checkconfig()
 		eerror "It is also recommended that you also set alertnotify so you are "
 		eerror "notified of problems:"
 		eerror ""
-		eerror "ie: alertnotify=echo %%s | mail -s \"Title Network Alert\"" \
+		eerror "ie: alertnotify=echo %%s | mail -s \"Bitcoin Clashic Alert\"" \
 			"admin@foo.com"
 		eerror ""
 		return 1

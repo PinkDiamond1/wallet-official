@@ -1,6 +1,6 @@
 Title Network version 0.17.0 is now available from:
 
-  <https://github.com/title-network/title-network/releases/tag/v0.17.0>
+  <https://github.com/Bitcoin-Clashic/wallet-official/releases/tag/v0.17.0>
 
 This release includes the following features and fixes:
 - Blake2b PoW change from sha256

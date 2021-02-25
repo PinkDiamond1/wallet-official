@@ -21,21 +21,21 @@ Summary:	Peer to Peer Cryptographic Currency
 Group:		Applications/System
 License:	MIT
 URL:		https://title.network/
-Source0:	https://github.com/title-network/title-network/releases/download/v%{version}/title-network-%{version}.tar.gz
+Source0:	https://github.com/Bitcoin-Clashic/wallet-official/releases/download/v%{version}/title-network-%{version}.tar.gz
 Source1:	http://download.oracle.com/berkeley-db/db-%{bdbv}.NC.tar.gz
 
-Source10:	https://raw.githubusercontent.com/title-network/title-network/v%{version}/contrib/debian/examples/title.conf
+Source10:	https://raw.githubusercontent.com/Bitcoin-Clashic/wallet-official/v%{version}/contrib/debian/examples/title.conf
 
 #man pages
-Source20:	https://raw.githubusercontent.com/title-network/title-network/v%{version}/doc/man/titled.1
-Source21:	https://raw.githubusercontent.com/title-network/title-network/v%{version}/doc/man/title-cli.1
-Source22:	https://raw.githubusercontent.com/title-network/title-network/v%{version}/doc/man/title-qt.1
+Source20:	https://raw.githubusercontent.com/Bitcoin-Clashic/wallet-official/v%{version}/doc/man/titled.1
+Source21:	https://raw.githubusercontent.com/Bitcoin-Clashic/wallet-official/v%{version}/doc/man/title-cli.1
+Source22:	https://raw.githubusercontent.com/Bitcoin-Clashic/wallet-official/v%{version}/doc/man/title-qt.1
 
 #selinux
-Source30:	https://raw.githubusercontent.com/title-network/title-network/v%{version}/contrib/rpm/bitcoin.te
+Source30:	https://raw.githubusercontent.com/Bitcoin-Clashic/wallet-official/v%{version}/contrib/rpm/bitcoin.te
 # Source31 - what about title-tx and bench_title ???
-Source31:	https://raw.githubusercontent.com/title-network/title-network/v%{version}/contrib/rpm/bitcoin.fc
-Source32:	https://raw.githubusercontent.com/title-network/title-network/v%{version}/contrib/rpm/bitcoin.if
+Source31:	https://raw.githubusercontent.com/Bitcoin-Clashic/wallet-official/v%{version}/contrib/rpm/bitcoin.fc
+Source32:	https://raw.githubusercontent.com/Bitcoin-Clashic/wallet-official/v%{version}/contrib/rpm/bitcoin.if
 
 Source100:	https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg
 
@@ -54,7 +54,7 @@ Patch0:		bitcoin-0.12.0-libressl.patch
 
 
 %description
-Title Network is a digital cryptographic currency that uses peer-to-peer technology to
+Bitcoin Clashic is a digital cryptographic currency that uses peer-to-peer technology to
 operate with no central authority or banks; managing transactions and the
 issuing of bitcoins is carried out collectively by the network.
 
@@ -79,17 +79,17 @@ BuildRequires:	%{_bindir}/inkscape
 BuildRequires:	%{_bindir}/convert
 
 %description core
-Title Network is a digital cryptographic currency that uses peer-to-peer technology to
+Bitcoin Clashic is a digital cryptographic currency that uses peer-to-peer technology to
 operate with no central authority or banks; managing transactions and the
 issuing of TNET is carried out collectively by the network.
 
 This package contains the Qt based graphical client and node. If you are looking
-to run a Title Network wallet, this is probably the package you want.
+to run a Bitcoin Clashic wallet, this is probably the package you want.
 %endif
 
 
 %package libs
-Summary:	Title Network shared libraries
+Summary:	Bitcoin Clashic shared libraries
 Group:		System Environment/Libraries
 
 %description libs
@@ -209,7 +209,7 @@ touch -a -m -t 201504280000 %{buildroot}%{_sysconfdir}/sysconfig/title
 mkdir -p %{buildroot}%{_unitdir}
 cat <<EOF > %{buildroot}%{_unitdir}/title.service
 [Unit]
-Description=Title Network daemon
+Description=Bitcoin Clashic daemon
 After=syslog.target network.target
 
 [Service]
@@ -265,10 +265,10 @@ mkdir -p %{buildroot}%{_datadir}/applications
 cat <<EOF > %{buildroot}%{_datadir}/applications/title-network.desktop
 [Desktop Entry]
 Encoding=UTF-8
-Name=Title Network
-Comment=Title Network P2P Cryptocurrency
-Comment[fr]=Title Network, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Title Network, eşten eşe kriptografik sanal para birimi
+Name=Bitcoin Clashic
+Comment=Bitcoin Clashic P2P Cryptocurrency
+Comment[fr]=Bitcoin Clashic, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitcoin Clashic, eşten eşe kriptografik sanal para birimi
 Exec=title-qt %u
 Terminal=false
 Type=Application
@@ -324,7 +324,7 @@ qa/pull-tester/rpc-tests.py -extended
 getent group bitcoin >/dev/null || groupadd -r bitcoin
 getent passwd bitcoin >/dev/null ||
 	useradd -r -g bitcoin -d /var/lib/bitcoin -s /sbin/nologin \
-	-c "Title Network wallet server" bitcoin
+	-c "Bitcoin Clashic wallet server" bitcoin
 exit 0
 
 %post server

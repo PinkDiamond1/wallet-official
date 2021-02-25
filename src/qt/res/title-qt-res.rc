@@ -19,8 +19,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Title Network"
-            VALUE "FileDescription",    PACKAGE_NAME " (GUI node for Title Network)"
+            VALUE "CompanyName",        "Bitcoin Clashic"
+            VALUE "FileDescription",    PACKAGE_NAME " (GUI node for Bitcoin Clashic)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "title-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR

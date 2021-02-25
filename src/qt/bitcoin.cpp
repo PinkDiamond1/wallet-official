@@ -180,7 +180,7 @@ void DebugMessageHandler(QtMsgType type, const QMessageLogContext &context,
 }
 #endif
 
-/** Class encapsulating Title Network startup and shutdown.
+/** Class encapsulating Bitcoin Clashic startup and shutdown.
  * Allows running startup and shutdown in a different thread from the UI thread.
  */
 class TitleNetwork : public QObject {
@@ -534,7 +534,7 @@ void BitcoinApplication::shutdownResult(int retval) {
 void BitcoinApplication::handleRunawayException(const QString &message) {
     QMessageBox::critical(
         0, "Runaway exception",
-        BitcoinGUI::tr("A fatal error occurred. Title Network can no longer "
+        BitcoinGUI::tr("A fatal error occurred. Bitcoin Clashic can no longer "
                        "continue safely and will quit.") +
             QString("\n\n") + message);
     ::exit(EXIT_FAILURE);
@@ -575,7 +575,7 @@ static void MigrateSettings() {
 #endif
     const QStringList legacyKeys(legacy.allKeys());
 
-    // We only migrate settings if we have Core settings but no Title Network
+    // We only migrate settings if we have Core settings but no Bitcoin Clashic
     // settings
     if (!legacyKeys.isEmpty() && abcd.allKeys().isEmpty()) {
         for (const QString &key : legacyKeys) {
@@ -647,8 +647,8 @@ int main(int argc, char *argv[]) {
     QApplication::setOrganizationName(QAPP_ORG_NAME);
     QApplication::setOrganizationDomain(QAPP_ORG_DOMAIN);
     QApplication::setApplicationName(QAPP_APP_NAME_DEFAULT);
-    // Migrate settings from core's/our old GUI settings to Title Network
-    // only if core's exist but Title Network's doesn't.
+    // Migrate settings from core's/our old GUI settings to Bitcoin Clashic
+    // only if core's exist but Bitcoin Clashic's doesn't.
     // NOTE -- this function needs to be called *after* the above 3 lines
     // that set the app orgname and app name! If you move the above 3 lines
     // to elsewhere, take this call with you!
