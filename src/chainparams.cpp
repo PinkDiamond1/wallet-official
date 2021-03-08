@@ -201,6 +201,9 @@ public:
 
         // Note that of those with the service bits flag, most only support a
         // subset of possible options.
+        // clashic.services maintained by Kimax (Wattup.eu)
+        vSeeds.push_back(
+            CDNSSeedData("clashic.services", "seeder.clashic.services", true));
         // clashic.cash maintained by Clashicly
         vSeeds.push_back(
             CDNSSeedData("clashic.cash", "seeder.clashic.cash", true));
