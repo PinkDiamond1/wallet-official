@@ -1,5 +1,5 @@
 ---
-name: "title-network-0.17.0-win"
+name: "bitcoin-clashic-0.17.0.6-win"
 enable_cache: true
 suites:
 - "xenial"

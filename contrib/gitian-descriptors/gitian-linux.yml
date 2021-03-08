@@ -1,5 +1,5 @@
 ---
-name: "title-network-0.17.0-linux"
+name: "bitcoin-clashic-0.17.0.6-linux"
 enable_cache: true
 suites:
 - "xenial"
