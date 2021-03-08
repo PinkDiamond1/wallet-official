@@ -144,8 +144,8 @@
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Nosūtīt bitkoinus uz Title Network adresi</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Nosūtīt bitkoinus uz Bitcoin Clashic adresi</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -168,8 +168,8 @@
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -196,12 +196,12 @@
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Title Network adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām Bitcoin Clashic adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Title Network adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Bitcoin Clashic adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -508,8 +508,8 @@
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Title Network klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt Bitcoin Clashic klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Title Network kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt Bitcoin Clashic kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -595,8 +595,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Title Network tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Bitcoin Clashic tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -854,7 +854,7 @@
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Title Network Kontroles Funkcijas</translation>
+        <translation>Bitcoin Clashic Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1029,8 +1029,8 @@
         <translation>Kopēt parakstu uz sistēmas starpliktuvi</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Title Network adreses īpašnieks.</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Bitcoin Clashic adreses īpašnieks.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1126,8 +1126,8 @@
         <translation>Darbināt fonā kā servisu un pieņemt komandas</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

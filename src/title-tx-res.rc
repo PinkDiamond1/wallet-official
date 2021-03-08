@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Title Network"
-            VALUE "FileDescription",    "title-tx (CLI Title Network transaction editor utility)"
+            VALUE "CompanyName",        "Bitcoin Clashic"
+            VALUE "FileDescription",    "title-tx (CLI Bitcoin Clashic transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "title-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

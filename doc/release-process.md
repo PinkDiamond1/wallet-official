@@ -47,7 +47,7 @@ Title Network Release Process
 
 9. Re-verify the uploads (make sure that downloading them, their checksums are ok)
 
-10. Create a [GitHub release](https://github.com/title-network/title-network/releases)
+10. Create a [GitHub release](https://github.com/Bitcoin-Clashic/wallet-official/releases)
 
 
 ## After Release

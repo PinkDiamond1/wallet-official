@@ -228,8 +228,8 @@
         <translation>Reindexing blocks on disk...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Send coins to a Title Network address</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Send coins to a Bitcoin Clashic address</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -252,8 +252,8 @@
         <translation>&amp;Verify message...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -280,12 +280,12 @@
         <translation>Encrypt the private keys that belong to your wallet</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Sign messages with your Title Network addresses to prove you own them</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Sign messages with your Bitcoin Clashic addresses to prove you own them</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Title Network addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -324,8 +324,8 @@
         <translation>&amp;Command-line options</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Title Network</source>
-        <translation><numerusform>%n active connection to Title Network</numerusform><numerusform>%n active connections to Title Network</numerusform></translation>
+        <source>%n active connection(s) to Bitcoin Clashic</source>
+        <translation><numerusform>%n active connection to Bitcoin Clashic</numerusform><numerusform>%n active connections to Bitcoin Clashic</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -368,8 +368,8 @@
         <translation>Up to date</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Title Network command-line options</source>
-        <translation>Show the %1 help message to get a list with possible Title Network command-line options</translation>
+        <source>Show the %1 help message to get a list with possible Bitcoin Clashic command-line options</source>
+        <translation>Show the %1 help message to get a list with possible Bitcoin Clashic command-line options</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -617,8 +617,8 @@
         <translation>As this is the first time the program is launched, you can choose where %1 will store its data.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Title Network block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 will download and store a copy of the Title Network block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>%1 will download and store a copy of the Bitcoin Clashic block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>%1 will download and store a copy of the Bitcoin Clashic block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -774,16 +774,16 @@
         <translation>&amp;Spend unconfirmed change</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Map port using &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a SOCKS5 proxy.</source>
-        <translation>Connect to the Title Network through a SOCKS5 proxy.</translation>
+        <source>Connect to the Bitcoin Clashic through a SOCKS5 proxy.</source>
+        <translation>Connect to the Bitcoin Clashic through a SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -822,8 +822,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Connect to the Title Network through a separate SOCKS5 proxy for Tor hidden services.</translation>
+        <source>Connect to the Bitcoin Clashic through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Connect to the Bitcoin Clashic through a separate SOCKS5 proxy for Tor hidden services.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -921,8 +921,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your Wallet automatically synchronises with the Title Network after a connection is established, but this process has not been completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your Wallet automatically synchronises with the Bitcoin Clashic after a connection is established, but this process has not been completed yet.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1010,8 +1010,8 @@
         <translation>Amount</translation>
     </message>
     <message>
-        <source>Enter a Title Network address (e.g. %1)</source>
-        <translation>Enter a Title Network address (e.g. %1)</translation>
+        <source>Enter a Bitcoin Clashic address (e.g. %1)</source>
+        <translation>Enter a Bitcoin Clashic address (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1354,8 +1354,8 @@
         <translation>R&amp;euse an existing receiving address (not recommended)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Title Network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Title Network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin Clashic.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin Clashic.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1523,8 +1523,8 @@
         <translation>total at least</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for Title Network transactions than the network can process.</source>
-        <translation>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for Title Network transactions than the network can process.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for Bitcoin Clashic transactions than the network can process.</source>
+        <translation>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for Bitcoin Clashic transactions than the network can process.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -1610,8 +1610,8 @@
         <translation>This is a normal payment.</translation>
     </message>
     <message>
-        <source>The Title Network address to send the payment to</source>
-        <translation>The Title Network address to send the payment to</translation>
+        <source>The Bitcoin Clashic address to send the payment to</source>
+        <translation>The Bitcoin Clashic address to send the payment to</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1654,8 +1654,8 @@
         <translation>Enter a label for this address to add it to the list of used addresses</translation>
     </message>
     <message>
-        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Title Network.</source>
-        <translation>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Title Network.</translation>
+        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin Clashic.</source>
+        <translation>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin Clashic.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1695,8 +1695,8 @@
         <translation>You can sign messages/agreements with your addresses to prove you can receive TNET sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
-        <source>The Title Network address to sign the message with</source>
-        <translation>The Title Network address to sign the message with</translation>
+        <source>The Bitcoin Clashic address to sign the message with</source>
+        <translation>The Bitcoin Clashic address to sign the message with</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1727,8 +1727,8 @@
         <translation>Copy the current signature to the system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Sign the message to prove you own this Title Network address</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Sign the message to prove you own this Bitcoin Clashic address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1751,12 +1751,12 @@
         <translation>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</translation>
     </message>
     <message>
-        <source>The Title Network address the message was signed with</source>
-        <translation>The Title Network address the message was signed with</translation>
+        <source>The Bitcoin Clashic address the message was signed with</source>
+        <translation>The Bitcoin Clashic address the message was signed with</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
-        <translation>Verify the message to ensure it was signed with the specified Title Network address</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
+        <translation>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1896,8 +1896,8 @@
         <translation>Unable to start HTTP server. See debug log for details.</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>The %s developers</source>

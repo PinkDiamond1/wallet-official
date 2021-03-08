@@ -216,8 +216,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>

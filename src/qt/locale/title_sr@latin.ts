@@ -160,16 +160,16 @@
         <translation>Otvori &amp;URI...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Pošalji novčiće na Title Network adresu</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Pošalji novčiće na Bitcoin Clashic adresu</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Proveri poruku...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -408,8 +408,8 @@
 <context>
     <name>title-network</name>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Information</source>

@@ -128,8 +128,8 @@
         <translation>Abrir &amp;URL...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Enviando monedas a una dirección de Title Network</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Enviando monedas a una dirección de Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
@@ -148,8 +148,8 @@
         <translation>&amp;Verificar Mensaje...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -298,8 +298,8 @@
 <context>
     <name>title-network</name>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Insufficient funds</source>

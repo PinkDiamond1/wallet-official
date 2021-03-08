@@ -80,12 +80,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Title Network addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bitcoin Clashic addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your Title Network addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Bitcoin Clashic addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -430,8 +430,8 @@
     </message>
     <message>
         <location line="-511"/>
-        <source>Send coins to a Title Network address</source>
-        <translation>Send coins to a Title Network address</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Send coins to a Bitcoin Clashic address</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -460,8 +460,8 @@
     </message>
     <message>
         <location line="+517"/>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <location line="-742"/>
@@ -495,13 +495,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Sign messages with your Title Network addresses to prove you own them</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Sign messages with your Bitcoin Clashic addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Title Network addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</translation>
     </message>
     <message>
         <location line="+58"/>
@@ -550,10 +550,10 @@
     </message>
     <message numerus="yes">
         <location line="+357"/>
-        <source>%n active connection(s) to Title Network</source>
+        <source>%n active connection(s) to Bitcoin Clashic</source>
         <translation>
-            <numerusform>%n active connection to Title Network</numerusform>
-            <numerusform>%n active connections to Title Network</numerusform>
+            <numerusform>%n active connection to Bitcoin Clashic</numerusform>
+            <numerusform>%n active connections to Bitcoin Clashic</numerusform>
         </translation>
     </message>
     <message>
@@ -611,7 +611,7 @@
     </message>
     <message>
         <location line="-441"/>
-        <source>Show the %1 help message to get a list with possible Title Network command-line options</source>
+        <source>Show the %1 help message to get a list with possible Bitcoin Clashic command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -691,7 +691,7 @@
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+518"/>
-        <source>A fatal error occurred. Title Network can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Bitcoin Clashic can no longer continue safely and will quit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -934,7 +934,7 @@
     </message>
     <message>
         <location line="+71"/>
-        <source>The entered address &quot;%1&quot; is not a valid Title Network address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Bitcoin Clashic address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@
     </message>
     <message>
         <location line="+10"/>
-        <source>%1 will download and store a copy of the Title Network block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>%1 will download and store a copy of the Bitcoin Clashic block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1118,7 +1118,7 @@
     </message>
     <message>
         <location line="+119"/>
-        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with Title Network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with Bitcoin Clashic, as detailed below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1324,8 +1324,8 @@
     </message>
     <message>
         <location line="+30"/>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1334,7 +1334,7 @@
     </message>
     <message>
         <location line="+17"/>
-        <source>Connect to the Title Network through a SOCKS5 proxy.</source>
+        <source>Connect to the Bitcoin Clashic through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1389,7 +1389,7 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the Title Network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Bitcoin Clashic through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1514,8 +1514,8 @@
     <message>
         <location line="+62"/>
         <location line="+386"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1634,7 +1634,7 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Title Network address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin Clashic address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1756,7 +1756,7 @@
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+136"/>
-        <source>Enter a Title Network address (e.g. %1)</source>
+        <source>Enter a Bitcoin Clashic address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2342,7 +2342,7 @@
     <message>
         <location line="+14"/>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Title Network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin Clashic.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2850,7 +2850,7 @@
     </message>
     <message>
         <location line="+102"/>
-        <source>Warning: Invalid Title Network address</source>
+        <source>Warning: Invalid Bitcoin Clashic address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2905,7 +2905,7 @@
     </message>
     <message>
         <location line="+39"/>
-        <source>The Title Network address to send the payment to</source>
+        <source>The Bitcoin Clashic address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2962,7 +2962,7 @@
     </message>
     <message>
         <location line="+47"/>
-        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Title Network.</source>
+        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin Clashic.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3024,7 +3024,7 @@
     </message>
     <message>
         <location line="+18"/>
-        <source>The Title Network address to sign the message with</source>
+        <source>The Bitcoin Clashic address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3066,8 +3066,8 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Sign the message to prove you own this Title Network address</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Sign the message to prove you own this Bitcoin Clashic address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3097,13 +3097,13 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>The Title Network address the message was signed with</source>
+        <source>The Bitcoin Clashic address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
-        <translation>Verify the message to ensure it was signed with the specified Title Network address</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
+        <translation>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3953,8 +3953,8 @@
     </message>
     <message>
         <location line="-360"/>
-        <source>Title Network</source>
-        <translation type="unfinished">Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation type="unfinished">Bitcoin Clashic</translation>
     </message>
     <message>
         <location line="+1"/>

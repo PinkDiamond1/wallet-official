@@ -64,12 +64,12 @@
         <translation>Prijímajúce adresy</translation>
     </message>
     <message>
-        <source>These are your Title Network addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú Vaše Title Network adresy pre posielanie platieb. Vždy skontrolujte sumu a prijímaciu adresu pred poslaním mincí.</translation>
+        <source>These are your Bitcoin Clashic addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú Vaše Bitcoin Clashic adresy pre posielanie platieb. Vždy skontrolujte sumu a prijímaciu adresu pred poslaním mincí.</translation>
     </message>
     <message>
-        <source>These are your Title Network addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú vaše Title Network adresy pre prijímanie platieb. Odporúča sa použiť vždy novú prijímaciu adresu pre každú transakciu.</translation>
+        <source>These are your Bitcoin Clashic addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú vaše Bitcoin Clashic adresy pre prijímanie platieb. Odporúča sa použiť vždy novú prijímaciu adresu pre každú transakciu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -316,8 +316,8 @@
         <translation>Preindexúvam bloky na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Poslať Title Network na adresu</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Poslať Bitcoin Clashic na adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -340,8 +340,8 @@
         <translation>O&amp;veriť správu...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -368,12 +368,12 @@
         <translation>Zašifruj súkromné kľúče ktoré patria do vašej peňaženky</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Podpísať správu s vašou adresou Title Network aby ste preukázali že ju vlastníte</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Podpísať správu s vašou adresou Bitcoin Clashic aby ste preukázali že ju vlastníte</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Overiť či správa bola podpísaná uvedenou Title Network adresou</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Overiť či správa bola podpísaná uvedenou Bitcoin Clashic adresou</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -412,8 +412,8 @@
         <translation>Možnosti príkazového riadku</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Title Network</source>
-        <translation><numerusform>%n aktívne pripojenie do siete Title Network</numerusform><numerusform>%n aktívne pripojenia do siete Title Network</numerusform><numerusform>%n aktívnych pripojení do siete Title Network</numerusform></translation>
+        <source>%n active connection(s) to Bitcoin Clashic</source>
+        <translation><numerusform>%n aktívne pripojenie do siete Bitcoin Clashic</numerusform><numerusform>%n aktívne pripojenia do siete Bitcoin Clashic</numerusform><numerusform>%n aktívnych pripojení do siete Bitcoin Clashic</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -456,8 +456,8 @@
         <translation>Aktualizovaný</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Title Network command-line options</source>
-        <translation>Ukáž %1 zoznam možných nastavení Title Network pomocou príkazového riadku</translation>
+        <source>Show the %1 help message to get a list with possible Bitcoin Clashic command-line options</source>
+        <translation>Ukáž %1 zoznam možných nastavení Bitcoin Clashic pomocou príkazového riadku</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -700,8 +700,8 @@
         <translation>Upraviť odosielaciu adresu</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Title Network address.</source>
-        <translation>Vložená adresa "%1" nieje platnou adresou Title Network.</translation>
+        <source>The entered address "%1" is not a valid Bitcoin Clashic address.</source>
+        <translation>Vložená adresa "%1" nieje platnou adresou Bitcoin Clashic.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -809,8 +809,8 @@
         <translation>Keďže toto je prvé spustenie programu, môžete si vybrať, kam %1 bude ukladať vaše údaje.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Title Network block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 stiahne a uloží kópiu Title Network block chain. Minimálne %2GB dát bude uložených v tejto zložke, a bude sa zväčšovať postupom času. Peňaženka bude taktiež uložená v tejto zložke.</translation>
+        <source>%1 will download and store a copy of the Bitcoin Clashic block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>%1 stiahne a uloží kópiu Bitcoin Clashic block chain. Minimálne %2GB dát bude uložených v tejto zložke, a bude sa zväčšovať postupom času. Peňaženka bude taktiež uložená v tejto zložke.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -974,16 +974,16 @@
         <translation>Minúť nepotvrdený výdavok</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvorit port pre Title Network na routeri. Toto funguje len ak router podporuje UPnP a je táto podpora aktivovaná.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvorit port pre Bitcoin Clashic na routeri. Toto funguje len ak router podporuje UPnP a je táto podpora aktivovaná.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapovať port pomocou &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a SOCKS5 proxy.</source>
-        <translation>Pripojiť do siete Title Network cez proxy server SOCKS5.</translation>
+        <source>Connect to the Bitcoin Clashic through a SOCKS5 proxy.</source>
+        <translation>Pripojiť do siete Bitcoin Clashic cez proxy server SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1022,8 +1022,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Pripojiť k Title Network sieti cez separované SOCKS5 proxy pre skrytú službu Tor.</translation>
+        <source>Connect to the Bitcoin Clashic through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Pripojiť k Bitcoin Clashic sieti cez separované SOCKS5 proxy pre skrytú službu Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1121,8 +1121,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť neaktuálne. Vaša peňaženka sa automaticky synchronizuje so sieťou Title Network po nadviazaní spojenia, ale tento proces ešte nie je ukončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť neaktuálne. Vaša peňaženka sa automaticky synchronizuje so sieťou Bitcoin Clashic po nadviazaní spojenia, ale tento proces ešte nie je ukončený.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1208,8 +1208,8 @@
         <translation>Neplatná adresa platby %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Title Network address or malformed URI parameters.</source>
-        <translation>URI sa nedá analyzovať! To môže byť spôsobené neplatnou Title Network adresou alebo zle nastavenými vlastnosťami URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin Clashic address or malformed URI parameters.</source>
+        <translation>URI sa nedá analyzovať! To môže byť spôsobené neplatnou Bitcoin Clashic adresou alebo zle nastavenými vlastnosťami URI.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1294,8 +1294,8 @@
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Title Network address (e.g. %1)</source>
-        <translation>Zadajte Title Network adresu (napr. %1)</translation>
+        <source>Enter a Bitcoin Clashic address (e.g. %1)</source>
+        <translation>Zadajte Bitcoin Clashic adresu (napr. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1667,8 +1667,8 @@
         <translation>Znovu použiť jestvujúcu prijímaciu adresu (neodporúča sa)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Title Network.</source>
-        <translation>Pridať voliteľnú správu k výzve na zaplatenie, ktorá sa zobrazí keď bude výzva otvorená. Poznámka: Správa nebude poslaná s platbou cez sieť Title Network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin Clashic.</source>
+        <translation>Pridať voliteľnú správu k výzve na zaplatenie, ktorá sa zobrazí keď bude výzva otvorená. Poznámka: Správa nebude poslaná s platbou cez sieť Bitcoin Clashic.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2040,8 +2040,8 @@
         <translation><numerusform>Odhadovaný začiatok potvrdzovania po %n bloku.</numerusform><numerusform>Odhadovaný začiatok potvrdzovania po %n blokoch.</numerusform><numerusform>Odhadovaný začiatok potvrdzovania po %n blokoch.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Title Network address</source>
-        <translation>Varovanie: Neplatná Title Network adresa</translation>
+        <source>Warning: Invalid Bitcoin Clashic address</source>
+        <translation>Varovanie: Neplatná Bitcoin Clashic adresa</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2083,7 +2083,7 @@
         <translation>Toto je normálna platba.</translation>
     </message>
     <message>
-        <source>The Title Network address to send the payment to</source>
+        <source>The Bitcoin Clashic address to send the payment to</source>
         <translation>Zvoľte adresu kam poslať platbu</translation>
     </message>
     <message>
@@ -2127,8 +2127,8 @@
         <translation>Vložte popis pre túto adresu aby sa uložila do zoznamu použitých adries</translation>
     </message>
     <message>
-        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Title Network.</source>
-        <translation>Správa ktorá bola pripojená k %1 URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť Title Network.</translation>
+        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin Clashic.</source>
+        <translation>Správa ktorá bola pripojená k %1 URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť Bitcoin Clashic.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2176,8 +2176,8 @@
         <translation>Môžete podpísať správy svojou adresou a dokázať, že viete prijímať mince zaslané na túto adresu. Buďte však opatrní a podpíšte len podrobné prehlásenia, s ktorými plne súhlasíte, nakoľko útoky typu "phishing" Vás môžu lákať k podpísaniu nejasných alebo príliš všeobecných tvrdení čím prevezmú vašu identitu.</translation>
     </message>
     <message>
-        <source>The Title Network address to sign the message with</source>
-        <translation>Title Network adresa pre podpísanie správy s</translation>
+        <source>The Bitcoin Clashic address to sign the message with</source>
+        <translation>Bitcoin Clashic adresa pre podpísanie správy s</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2208,7 +2208,7 @@
         <translation>Kopírovať práve zvolenú adresu do systémového klipbordu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
         <translation>Podpíšte správu aby ste dokázali že vlastníte túto adresu</translation>
     </message>
     <message>
@@ -2232,12 +2232,12 @@
         <translation>Vložte adresu príjemcu, správu (uistite sa, že presne kopírujete ukončenia riadkov, medzery, odrážky, atď.) a podpis pre potvrdenie správy. Buďte opatrní a nedomýšľajte si viac než je uvedené v samotnej podpísanej správe a môžete sa tak vyhnúť podvodu MITM útokom. Toto len potvrdzuje, že podpisujúca strana môže prijímať na tejto adrese, nepotvrdzuje to vlastníctvo žiadnej transakcie!</translation>
     </message>
     <message>
-        <source>The Title Network address the message was signed with</source>
-        <translation>Adresa Title Network, ktorou bola podpísaná správa</translation>
+        <source>The Bitcoin Clashic address the message was signed with</source>
+        <translation>Adresa Bitcoin Clashic, ktorou bola podpísaná správa</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
-        <translation>Overím správy sa uistiť že bola podpísaná označenou Title Network adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
+        <translation>Overím správy sa uistiť že bola podpísaná označenou Bitcoin Clashic adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2821,8 +2821,8 @@
         <translation>Nepodarilo sa spustiť HTTP server. Pre viac detailov zobrazte debug log.</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>The %s developers</source>

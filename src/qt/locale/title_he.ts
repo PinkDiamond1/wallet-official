@@ -64,11 +64,11 @@
         <translation>מקבל כתובות</translation>
     </message>
     <message>
-        <source>These are your Title Network addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bitcoin Clashic addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>אלה הם כתובות הרשת כותרת שלך לשליחת תשלומים. חשוב לבדוק את הכמות של הכתובות המקבלות לפני שליחת מטבעות</translation>
     </message>
     <message>
-        <source>These are your Title Network addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Bitcoin Clashic addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>אלה הן כתובות הרשת כותרת שלך לקבלת תשלומים. מומלץ להשתמש בכתובת חדשה לכל העברה.</translation>
     </message>
     <message>
@@ -220,7 +220,7 @@
         <translation>המקטעים נוספים למפתח בכונן…</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
+        <source>Send coins to a Bitcoin Clashic address</source>
         <translation>שליחת מטבעות לכתובת רשת כותרת</translation>
     </message>
     <message>
@@ -244,7 +244,7 @@
         <translation>&amp;אימות הודעה…</translation>
     </message>
     <message>
-        <source>Title Network</source>
+        <source>Bitcoin Clashic</source>
         <translation>רשת כותרת</translation>
     </message>
     <message>
@@ -272,11 +272,11 @@
         <translation>הצפנת המפתחות הפרטיים ששייכים לארנק שלך</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
         <translation>חתום על הודעות עם כתובות הרשת כותרת שלך כדי להוכיח שהן בבעלותך</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
         <translation>אמת הודעות כדי להבטיח שהן נחתמו עם כתובת רשת כותרת מסוימות</translation>
     </message>
     <message>
@@ -672,7 +672,7 @@
         <translation>עודף &amp;בלתי מאושר מההשקעה</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>פתיחת הפתחה של רשת כותרת בנתב באופן אוטומטי. עובד רק אם UPnP מופעל ונתמך בנתב.</translation>
     </message>
     <message>
@@ -779,7 +779,7 @@
         <translation>טופס</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
         <translation>המידע המוצג עשוי להיות מיושן. הארנק שלך מסתנכרן באופן אוטומטי עם רשת הרשת כותרת לאחר יצירת החיבור, אך התהליך טרם הסתיים.</translation>
     </message>
     <message>
@@ -864,7 +864,7 @@
         <translation>כמות</translation>
     </message>
     <message>
-        <source>Enter a Title Network address (e.g. %1)</source>
+        <source>Enter a Bitcoin Clashic address (e.g. %1)</source>
         <translation>נא להזין כתובת רשת כותרת (למשל: %1)</translation>
     </message>
     <message>
@@ -1184,7 +1184,7 @@
         <translation>ש&amp;ימוש &amp;חוזר בכתובת קבלה קיימת (לא מומלץ)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Title Network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin Clashic.</source>
         <translation>הודעת רשות לצירוף לבקשת התשלום שתוצג בעת פתיחת הבקשה. לתשומת לבך: ההודעה לא תישלח עם התשלום ברשת רשת כותרת.</translation>
     </message>
     <message>
@@ -1420,7 +1420,7 @@
         <translation>זהו תשלום רגיל.</translation>
     </message>
     <message>
-        <source>The Title Network address to send the payment to</source>
+        <source>The Bitcoin Clashic address to send the payment to</source>
         <translation>כתובת הרשת כותרת של המוטב</translation>
     </message>
     <message>
@@ -1452,7 +1452,7 @@
         <translation>יש להזין תווית עבור כתובת זו כדי להוסיף אותה לרשימת הכתובות בשימוש</translation>
     </message>
     <message>
-        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Title Network.</source>
+        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin Clashic.</source>
         <translation>הודעה שצורפה לרשת כותרת: כתובת שתאוחסן בהעברה לצורך מעקב מצדך. לתשומת לבך: הודעה זו לא תישלח ברשת הרשת כותרת.</translation>
     </message>
     <message>
@@ -1485,7 +1485,7 @@
         <translation>חתימה על הו&amp;דעה</translation>
     </message>
     <message>
-        <source>The Title Network address to sign the message with</source>
+        <source>The Bitcoin Clashic address to sign the message with</source>
         <translation>כתובת הרשת כותרת אתה לחתום אתה את ההודעה</translation>
     </message>
     <message>
@@ -1517,7 +1517,7 @@
         <translation>העתקת החתימה הנוכחית ללוח הגזירים</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
         <translation>ניתן לחתום על ההודעה כדי להוכיח שכתובת הרשת כותרת הזו בבעלותך.</translation>
     </message>
     <message>
@@ -1537,11 +1537,11 @@
         <translation>&amp;אימות הודעה</translation>
     </message>
     <message>
-        <source>The Title Network address the message was signed with</source>
+        <source>The Bitcoin Clashic address the message was signed with</source>
         <translation>כתובת הרשת כותרת שאתה נחתמה ההודעה</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
         <translation>ניתן לאמת את ההודעה כדי להבטיח שהיא נחתמה עם כתובת הרשת כותרת הנתונה</translation>
     </message>
     <message>
@@ -1650,7 +1650,7 @@
         <translation>ריצה כסוכן ברקע וקבלת פקודות</translation>
     </message>
     <message>
-        <source>Title Network</source>
+        <source>Bitcoin Clashic</source>
         <translation>רשת כותרת</translation>
     </message>
     <message>

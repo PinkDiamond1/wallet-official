@@ -1,14 +1,14 @@
 Translations
 ============
 
-The Title Network project has been designed to support multiple localisations. This makes adding new phrases, and completely new languages easily achievable. For managing all application translations, Title Network makes use of the Transifex online translation management tool.
+Bitcoin Clashic project has been designed to support multiple localisations. This makes adding new phrases, and completely new languages easily achievable. For managing all application translations, Title Network makes use of the Transifex online translation management tool.
 
 ### Helping to translate (using Transifex)
 Transifex is setup to monitor the GitHub repo for updates, and when code containing new translations is found, Transifex will process any changes. It may take several hours after a pull-request has been merged, to appear in the Transifex web interface.
 
 Multiple language support is critical in assisting Title Network’s global adoption, and growth. One of Title Network’s greatest strengths is cross-border money transfers, any help making that easier is greatly appreciated.
 
-See the [Transifex Title Network project](https://www.transifex.com/title-network/title-network/) to assist in translations. You should also join the translation mailing list for announcements - see details below.
+See the [Transifex Title Network project](https://www.transifex.com/Bitcoin-Clashic/wallet-official/) to assist in translations. You should also join the translation mailing list for announcements - see details below.
 
 ### Writing code with translations
 We use automated scripts to help extract translations in both Qt, and non-Qt source files. It is rarely necessary to manually edit the files in `src/qt/locale/`. The translation source files must adhere to the following format:
@@ -43,7 +43,7 @@ git commit
 ### Creating a Transifex account
 Visit the [Transifex Signup](https://www.transifex.com/signup/) page to create an account. Take note of your username and password, as they will be required to configure the command-line tool.
 
-You can find the Title Network translation project at [https://www.transifex.com/title-network/title-network/](https://www.transifex.com/title-network/title-network/).
+You can find Bitcoin Clashic translation project at [https://www.transifex.com/Bitcoin-Clashic/wallet-official/](https://www.transifex.com/Bitcoin-Clashic/wallet-official/).
 
 ### Installing the Transifex client command-line tool
 The client it used to fetch updated translations. If you are having problems, or need more details, see [http://docs.transifex.com/developer/client/setup](http://docs.transifex.com/developer/client/setup)

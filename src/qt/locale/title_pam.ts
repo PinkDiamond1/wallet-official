@@ -124,8 +124,8 @@
         <translation>Address king pamag-Tanggap</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Magpadalang barya king Title Network address</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Magpadalang barya king Bitcoin Clashic address</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -148,8 +148,8 @@
         <translation>&amp;Beripikan ing message...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -324,8 +324,8 @@
         <translation>&amp;Network</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ibuklat yang antimanu ing Title Network client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ibuklat yang antimanu ing Bitcoin Clashic client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -399,8 +399,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Title Network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Bitcoin Clashic istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -657,8 +657,8 @@
         <translation>Kopyan ing kasalungsungan pirma king system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Pirman ing mensayi ban patune na keka ya ining Title Network address</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Pirman ing mensayi ban patune na keka ya ining Bitcoin Clashic address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -677,8 +677,8 @@
         <translation>&amp;Beripikan ing Mensayi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
-        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Title Network address</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
+        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Bitcoin Clashic address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -754,8 +754,8 @@
         <translation>Gumana king gulut bilang daemon at tumanggap commands</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Kapilubluban ning Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Kapilubluban ning Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Block creation options:</source>

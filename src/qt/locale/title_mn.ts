@@ -128,7 +128,7 @@
         <translation>Оношилгоо ба засварын консолыг онгойлго</translation>
     </message>
     <message>
-        <source>Title Network</source>
+        <source>Bitcoin Clashic</source>
         <translation>Биткойн</translation>
     </message>
     <message>

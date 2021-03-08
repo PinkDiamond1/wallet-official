@@ -116,8 +116,8 @@
         <translation>Recreans indicem frustorum in disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Mitte nummos ad inscriptionem Title Network</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Mitte nummos ad inscriptionem Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -140,8 +140,8 @@
         <translation>&amp;Verifica nuntium...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -168,12 +168,12 @@
         <translation>Cifra claves privatas quae cassidili tui sunt</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus Title Network ut demonstres te eas possidere</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus Bitcoin Clashic ut demonstres te eas possidere</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Title Network</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Bitcoin Clashic</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -348,8 +348,8 @@
         <translation>Cassidile</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis Title Network in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis Bitcoin Clashic in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -427,8 +427,8 @@
         <translation>Schema</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Title Network postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Bitcoin Clashic postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -673,8 +673,8 @@
         <translation>Copia signationem in latibulum systematis</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem Title Network a te possessa esse</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem Bitcoin Clashic a te possessa esse</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -693,8 +693,8 @@
         <translation>&amp;Verifica Nuntium</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Title Network</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -770,8 +770,8 @@
         <translation>Operare infere sicut daemon et mandata accipe</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

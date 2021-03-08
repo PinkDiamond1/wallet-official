@@ -64,12 +64,12 @@
         <translation>Alım adresleri</translation>
     </message>
     <message>
-        <source>These are your Title Network addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödemeleri göndermek için kullanacağınız Title Network adreslerinizdir. Title Network yollamadan önce tutarı ve alıcının alım adresini her zaman kontrol ediniz.</translation>
+        <source>These are your Bitcoin Clashic addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödemeleri göndermek için kullanacağınız Bitcoin Clashic adreslerinizdir. Bitcoin Clashic yollamadan önce tutarı ve alıcının alım adresini her zaman kontrol ediniz.</translation>
     </message>
     <message>
-        <source>These are your Title Network addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödemeleri almak için kullanacağınız Title Network adreslerinizdir. Her işlem için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
+        <source>These are your Bitcoin Clashic addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödemeleri almak için kullanacağınız Bitcoin Clashic adreslerinizdir. Her işlem için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -340,8 +340,8 @@
         <translation>Diskteki bloklar yeniden indeksleniyor...</translation>
     </message>
     <message>
-        <source>Send coins to a Title Network address</source>
-        <translation>Bir TNET adresine Title Network gönder</translation>
+        <source>Send coins to a Bitcoin Clashic address</source>
+        <translation>Bir TNET adresine Bitcoin Clashic gönder</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -364,8 +364,8 @@
         <translation>İletiyi &amp;kontrol et...</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -392,12 +392,12 @@
         <translation>Cüzdanınıza ait özel anahtarları şifreleyin</translation>
     </message>
     <message>
-        <source>Sign messages with your Title Network addresses to prove you own them</source>
-        <translation>İletileri adreslerin size ait olduğunu ispatlamak için Title Network adresleri ile imzala</translation>
+        <source>Sign messages with your Bitcoin Clashic addresses to prove you own them</source>
+        <translation>İletileri adreslerin size ait olduğunu ispatlamak için Bitcoin Clashic adresleri ile imzala</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Title Network addresses</source>
-        <translation>Belirtilen Title Network adresleri ile imzalandıklarından emin olmak için iletileri kontrol et</translation>
+        <source>Verify messages to ensure they were signed with specified Bitcoin Clashic addresses</source>
+        <translation>Belirtilen Bitcoin Clashic adresleri ile imzalandıklarından emin olmak için iletileri kontrol et</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -436,8 +436,8 @@
         <translation>&amp;Komut satırı seçenekleri</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Title Network</source>
-        <translation><numerusform>Title Network şebekesine %n faal bağlantı</numerusform><numerusform>Title Network ağına %n etkin bağlantı var</numerusform></translation>
+        <source>%n active connection(s) to Bitcoin Clashic</source>
+        <translation><numerusform>Bitcoin Clashic şebekesine %n faal bağlantı</numerusform><numerusform>Bitcoin Clashic ağına %n etkin bağlantı var</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -480,8 +480,8 @@
         <translation>Güncel</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Title Network command-line options</source>
-        <translation>Olası Title Network komut satırı seçeneklerinin listesini görmek için %1 yardım mesajını göster</translation>
+        <source>Show the %1 help message to get a list with possible Bitcoin Clashic command-line options</source>
+        <translation>Olası Bitcoin Clashic komut satırı seçeneklerinin listesini görmek için %1 yardım mesajını göster</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -550,15 +550,15 @@
         <translation>Cüzdan &lt;b&gt;şifrelenmiştir&lt;/b&gt; ve şu anda &lt;b&gt;kilitlidir&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Title Network can no longer continue safely and will quit.</source>
-        <translation>Ölümcül bir hata oluştu. Title Network yazılımı artık güvenli bir şekilde çalışmaya devam edemediği için kapatılacaktır.</translation>
+        <source>A fatal error occurred. Bitcoin Clashic can no longer continue safely and will quit.</source>
+        <translation>Ölümcül bir hata oluştu. Bitcoin Clashic yazılımı artık güvenli bir şekilde çalışmaya devam edemediği için kapatılacaktır.</translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>Title Network Seçimi</translation>
+        <translation>Bitcoin Clashic Seçimi</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -744,8 +744,8 @@
         <translation>Gönderi adresini düzenle</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Title Network address.</source>
-        <translation>Girilen "%1" adresi geçerli bir Title Network adresi değildir.</translation>
+        <source>The entered address "%1" is not a valid Bitcoin Clashic address.</source>
+        <translation>Girilen "%1" adresi geçerli bir Bitcoin Clashic adresi değildir.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -853,8 +853,8 @@
         <translation>Bu programın ilk kez başlatılmasından dolayı %1 yazılımının verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Title Network block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1, Title Network blok zincirinin bir kopyasını indirecek ve saklayacaktır. Bu klasörde en az %2 GB veri saklanacak ve bu zamanla artacaktır. Cüzdan da bu klasörde saklanacaktır.</translation>
+        <source>%1 will download and store a copy of the Bitcoin Clashic block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>%1, Bitcoin Clashic blok zincirinin bir kopyasını indirecek ve saklayacaktır. Bu klasörde en az %2 GB veri saklanacak ve bu zamanla artacaktır. Cüzdan da bu klasörde saklanacaktır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -888,8 +888,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Title Network, as detailed below.</source>
-        <translation>Son işlemler henüz görünmeyebilir ve bu nedenle cüzdanınızın bakiyesi yanlış olabilir. Bu bilgiler, aşağıda detaylandırıldığı gibi, cüzdanınız Title Network ağı ile senkronizasyonunu tamamladığında doğru olacaktır. </translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Bitcoin Clashic, as detailed below.</source>
+        <translation>Son işlemler henüz görünmeyebilir ve bu nedenle cüzdanınızın bakiyesi yanlış olabilir. Bu bilgiler, aşağıda detaylandırıldığı gibi, cüzdanınız Bitcoin Clashic ağı ile senkronizasyonunu tamamladığında doğru olacaktır. </translation>
     </message>
     <message>
         <source>Attempting to spend TNET that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
@@ -1050,16 +1050,16 @@
         <translation>Doğrulanmamış para üstünü &amp;harca</translation>
     </message>
     <message>
-        <source>Automatically open the Title Network client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide Title Network istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the Bitcoin Clashic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönlendiricide Bitcoin Clashic istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Portları &amp;UPnP kullanarak haritala</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a SOCKS5 proxy.</source>
-        <translation>Title Network ağına bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
+        <source>Connect to the Bitcoin Clashic through a SOCKS5 proxy.</source>
+        <translation>Bitcoin Clashic ağına bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1098,8 +1098,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Title Network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Title Network ağına gizli Tor servisleri için ayrı bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
+        <source>Connect to the Bitcoin Clashic through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Bitcoin Clashic ağına gizli Tor servisleri için ayrı bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1147,7 +1147,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Title Network gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>Bitcoin Clashic gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1197,8 +1197,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Title Network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncel olmayabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak Title Network ağı ile senkronize olur ancak bu işlem henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin Clashic after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilgiler güncel olmayabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak Bitcoin Clashic ağı ile senkronize olur ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1288,8 +1288,8 @@
         <translation>%1 ödeme adresi geçersizdir</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Title Network address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamıyor! Bunun nedeni geçersiz bir Title Network adresi veya hatalı biçimlendirilmiş URI değişkenleri olabilir.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin Clashic address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamıyor! Bunun nedeni geçersiz bir Bitcoin Clashic adresi veya hatalı biçimlendirilmiş URI değişkenleri olabilir.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1382,8 +1382,8 @@
         <translation>Tutar</translation>
     </message>
     <message>
-        <source>Enter a Title Network address (e.g. %1)</source>
-        <translation>Bir Title Network adresi giriniz (mesela %1)</translation>
+        <source>Enter a Bitcoin Clashic address (e.g. %1)</source>
+        <translation>Bir Bitcoin Clashic adresi giriniz (mesela %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1728,7 +1728,7 @@
     </message>
     <message>
         <source>WARNING: Scammers have been active, telling users to type commands here, stealing their wallet contents. Do not use this console without fully understanding the ramification of a command.</source>
-        <translation>UYARI: Title Network dolandırıcılarının çok fazla etkin olduğu zamanlarda, dolandırıcılar bazı kullanıcılara buraya komutlar yazmalarını söylerek onların cüzdanlarındaki TNET çalmışlardır. Bir komutun sonuçlarını tam olarak anlamadan bu konsolu kullanmayın.</translation>
+        <translation>UYARI: Bitcoin Clashic dolandırıcılarının çok fazla etkin olduğu zamanlarda, dolandırıcılar bazı kullanıcılara buraya komutlar yazmalarını söylerek onların cüzdanlarındaki TNET çalmışlardır. Bir komutun sonuçlarını tam olarak anlamadan bu konsolu kullanmayın.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -1806,8 +1806,8 @@
         <translation>&amp;Hâlihazırda bulunan bir alım adresini kullan (önerilmez)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Title Network.</source>
-        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir ileti. Not: Bu ileti ödeme ile birlikte Title Network ağı üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin Clashic.</source>
+        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir ileti. Not: Bu ileti ödeme ile birlikte Bitcoin Clashic ağı üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1960,7 +1960,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Title Network yolla</translation>
+        <translation>Bitcoin Clashic yolla</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -2039,8 +2039,8 @@
         <translation>toplam asgari</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for Title Network transactions than the network can process.</source>
-        <translation>Gerekli olan en az ücreti ödemek, bloklarda boşluktan daha az işlem hacmi olduğu sürece bir sorun çıkarmaz. Fakat ağın işleyecebileceğinden daha çok Title Network işlemi talebi olduğunda bunun asla doğrulanmayan bir işlem olabileceğinin farkında olmalısınız.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for Bitcoin Clashic transactions than the network can process.</source>
+        <translation>Gerekli olan en az ücreti ödemek, bloklarda boşluktan daha az işlem hacmi olduğu sürece bir sorun çıkarmaz. Fakat ağın işleyecebileceğinden daha çok Bitcoin Clashic işlemi talebi olduğunda bunun asla doğrulanmayan bir işlem olabileceğinin farkında olmalısınız.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2152,7 +2152,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Title Network gönderimini onaylayın</translation>
+        <translation>Bitcoin Clashic gönderimini onaylayın</translation>
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
@@ -2199,8 +2199,8 @@
         <translation>Sadece asgari ücret olan %1 tutarını öde</translation>
     </message>
     <message>
-        <source>Warning: Invalid Title Network address</source>
-        <translation>Uyarı: geçersiz Title Network adresi</translation>
+        <source>Warning: Invalid Bitcoin Clashic address</source>
+        <translation>Uyarı: geçersiz Bitcoin Clashic adresi</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2242,8 +2242,8 @@
         <translation>Bu, normal bir ödemedir.</translation>
     </message>
     <message>
-        <source>The Title Network address to send the payment to</source>
-        <translation>Ödemenin yollanacağı Title Network adresi</translation>
+        <source>The Bitcoin Clashic address to send the payment to</source>
+        <translation>Ödemenin yollanacağı Bitcoin Clashic adresi</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2262,8 +2262,8 @@
         <translation>Bu ögeyi kaldır</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less Title Network than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Ücret yollanan tutardan alınacaktır. Alıcı tutar alanına girdiğinizden daha az Title Network alacaktır. Eğer birden çok alıcı seçiliyse ücret eşit olarak bölünecektir.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less Bitcoin Clashic than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Ücret yollanan tutardan alınacaktır. Alıcı tutar alanına girdiğinizden daha az Bitcoin Clashic alacaktır. Eğer birden çok alıcı seçiliyse ücret eşit olarak bölünecektir.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2286,8 +2286,8 @@
         <translation>Kullanılmış adres listesine eklemek için bu adrese bir etiket girin</translation>
     </message>
     <message>
-        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Title Network.</source>
-        <translation>Referans için %1 URI'siyle iliştirilmiş işlemle birlikte depolanacak bir ileti. Not: Bu mesaj Title Network ağı üzerinden gönderilmeyecektir.</translation>
+        <source>A message that was attached to the %1 URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin Clashic.</source>
+        <translation>Referans için %1 URI'siyle iliştirilmiş işlemle birlikte depolanacak bir ileti. Not: Bu mesaj Bitcoin Clashic ağı üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2331,12 +2331,12 @@
         <translation>İleti &amp;imzala</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive Title Network sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Adreslerinize yollanan Title Network alabileceğiniz ispatlamak için adreslerinizle iletiler/anlaşmalar imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz ya da rastgele hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive Bitcoin Clashic sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Adreslerinize yollanan Bitcoin Clashic alabileceğiniz ispatlamak için adreslerinizle iletiler/anlaşmalar imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz ya da rastgele hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
     </message>
     <message>
-        <source>The Title Network address to sign the message with</source>
-        <translation>İletinin imzalanmasında kullanılacak Title Network adresi</translation>
+        <source>The Bitcoin Clashic address to sign the message with</source>
+        <translation>İletinin imzalanmasında kullanılacak Bitcoin Clashic adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2367,8 +2367,8 @@
         <translation>Güncel imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Title Network address</source>
-        <translation>Bu Title Network adresinin sizin olduğunu ispatlamak için iletiyi imzalayın</translation>
+        <source>Sign the message to prove you own this Bitcoin Clashic address</source>
+        <translation>Bu Bitcoin Clashic adresinin sizin olduğunu ispatlamak için iletiyi imzalayın</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2391,12 +2391,12 @@
         <translation>Alıcının adresini, iletiyi (satır sonları, boşluklar, sekmeler vs. karakterleri tam olarak kopyaladığınızdan emin olunuz) ve imzayı aşağıya giriniz. Bir ortadaki adam saldırısı tarafından kandırılmaya engel olmak için imzadan, imzalı iletinin içeriğini aşan bir anlam çıkarmamaya dikkat ediniz. Bunun sadece imzalayan tarafın adres ile alım yapabildiğini ispatladığını ve herhangi bir işlemin gönderi tarafını kanıtlayamayacağını unutmayınız!</translation>
     </message>
     <message>
-        <source>The Title Network address the message was signed with</source>
-        <translation>İletinin imzalanmasında kullanılan Title Network adresi</translation>
+        <source>The Bitcoin Clashic address the message was signed with</source>
+        <translation>İletinin imzalanmasında kullanılan Bitcoin Clashic adresi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Title Network address</source>
-        <translation>Belirtilen Title Network adresi ile imzalandığını doğrulamak için iletiyi kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitcoin Clashic address</source>
+        <translation>Belirtilen Bitcoin Clashic adresi ile imzalandığını doğrulamak için iletiyi kontrol et</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3056,8 +3056,8 @@
         <translation>HTTP sunucusu başlatılamadı. Ayrıntılar için debug.log dosyasına bakınız.</translation>
     </message>
     <message>
-        <source>Title Network</source>
-        <translation>Title Network</translation>
+        <source>Bitcoin Clashic</source>
+        <translation>Bitcoin Clashic</translation>
     </message>
     <message>
         <source>The %s developers</source>
@@ -3137,7 +3137,7 @@
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Bu kararlı sürümden önceki bir deneme sürümüdür. - risklerini bilerek kullanma sorumluluğu sizdedir - Title Network oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation>Bu kararlı sürümden önceki bir deneme sürümüdür. - risklerini bilerek kullanma sorumluluğu sizdedir - Bitcoin Clashic oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
         <source>Unable to rewind the database to a pre-fork state. You will need to redownload the blockchain</source>
