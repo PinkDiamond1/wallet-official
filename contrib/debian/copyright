@@ -6,7 +6,7 @@ Source: https://github.com/Bitcoin-Clashic/wallet-official
 
 Files: *
 Copyright: 2009-2017, Bitcoin Core Developers, 2017 Bitcoin Developers,
-           2018-2019 Bitcoin Clashic/Bitcoin Core Sq/Bitcoin Clashic Developers
+           2018-2021 Bitcoin Clashic Developers
 License: Expat
 Comment: The Bitcoin Developers encompasses those contributing to Bitcoin
          client open source development (various clients).
