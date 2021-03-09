@@ -884,8 +884,8 @@ std::string CopyrightHolders(const std::string &strPrefix) {
     if (strprintf(COPYRIGHT_HOLDERS, COPYRIGHT_HOLDERS_SUBSTITUTION)
             .find("Bitcoin Core") == std::string::npos) {
         strCopyrightHolders += "\n" + strPrefix + "The Bitcoin Core developers"
-            + "\n" + "Copyright (C) 2018-2019 "
-            + "Bitcoin Clashic/Bitcoin Core Sq/Bitcoin Clashic Developers";
+            + "\n" + "Copyright (C) 2018-2021 "
+            + "Bitcoin Clashic Developers";
     }
     return strCopyrightHolders;
 }
